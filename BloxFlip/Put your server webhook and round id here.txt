@@ -1,0 +1,6 @@
+("Server webhook = "")
+
+Round Id here: ""
+
+
+Once u put both of that click the X and save it and do /mines "put the amount of mines here" and then "round id"
